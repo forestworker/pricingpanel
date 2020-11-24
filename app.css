@@ -133,7 +133,7 @@ body {
     flex-direction: row;
   }
   .pricing-plan{
-    padding: 0 20px;
+    padding: 25px 50px;
     border-bottom: none;
     border-right: 1px solid #e1f1ff;
   }
